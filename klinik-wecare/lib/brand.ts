@@ -61,7 +61,6 @@ export const BRAND = {
 /**
  * Generate WhatsApp contact URL
  */
-export function getWhatsAppUrl(customMessage?: string): string {
-  const message = customMessage || BRAND.contact.whatsappMessage;
-  return `https://wa.me/${BRAND.contact.whatsapp}?text=${encodeURIComponent(message)}`;
+export function getWhatsAppUrl(): string {
+  return "https://wa.link/9d24vp";
 }
