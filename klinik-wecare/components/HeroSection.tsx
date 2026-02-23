@@ -72,7 +72,7 @@ export function HeroSection() {
             </div>
             <div>
               <div className="text-3xl font-bold text-[#283a67]">200+</div>
-              <div className="mt-1 text-sm text-gray-600">5-Stars Google Reviews</div>
+              <div className="mt-1 text-sm text-gray-600">5-Star Google Reviews</div>
             </div>
           </div>
         </div>

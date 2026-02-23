@@ -37,6 +37,24 @@ const services = [
       "WeCare Clinic offers skin analysis and consultation in Melawati to help diagnose and treat acne, ensuring personalized skincare solutions for your needs.",
     image: "/images/services/skin-analysis-consultation.jpg",
   },
+  {
+    title: "2D Pregnancy Scan",
+    description:
+      "Get a clear 2D ultrasound scan at WeCare Clinic in Melawati to monitor your baby's growth and development throughout your pregnancy journey.",
+    image: "/images/services/2d-pregnancy-scan.jpg",
+  },
+  {
+    title: "4D/5D Pregnancy Scan",
+    description:
+      "Experience the joy of seeing your baby in stunning 4D/5D detail at WeCare Clinic, offering advanced imaging for a memorable pregnancy experience.",
+    image: "/images/services/4d-5d-pregnancy-scan.jpg",
+  },
+  {
+    title: "Pregnancy Pink Book Registration",
+    description:
+      "Register your pregnancy pink book at WeCare Clinic in Melawati for comprehensive prenatal care and proper documentation of your pregnancy journey.",
+    image: "/images/services/pregnancy-pink-book-registration.jpg",
+  },
 ];
 
 export function OurServices() {
